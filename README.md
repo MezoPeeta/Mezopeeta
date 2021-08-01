@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mazen Omar</h1>
 <h3 align="center">Self-Motivated Student</h3>
 
